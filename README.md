@@ -15,8 +15,10 @@
 <h2>Preview: </h2>
 <p>This is preview of the project. You can visit live preview on </p>
 
-![alt text](<Screenshot 2024-09-03 223040.png>)
-![alt text](<Screenshot 2024-09-03 223056.png>)
+
+![Screenshot 2024-09-03 223040](https://github.com/user-attachments/assets/1417f0b7-222b-45e8-bd77-bf5893f79ef7)
+![Screenshot 2024-09-03 223056](https://github.com/user-attachments/assets/2570464a-4086-4157-b8e1-63fdbd1641ef)
+
 
 
 
